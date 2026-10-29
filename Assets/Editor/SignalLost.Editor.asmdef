@@ -1,0 +1,21 @@
+{
+    "name": "SignalLost.Editor",
+    "rootNamespace": "SignalLost.EditorTools",
+    "references": [
+        "SignalLost.Runtime",
+        "Unity.InputSystem",
+        "Unity.AI.Navigation",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
